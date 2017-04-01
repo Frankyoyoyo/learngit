@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creationg a new branch is quick and simple.
 add merge
 
-merge bob to master
+at jim's branch
